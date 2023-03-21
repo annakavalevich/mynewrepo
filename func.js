@@ -1,3 +1,3 @@
-function = () => {
-return a+b
+function name(a, b) {
+  return a + b;
 }
